@@ -1,6 +1,7 @@
 ## billz is making a website 🌈⚡😛
 
-### Markdown![fresh-brinjal-500x500](https://user-images.githubusercontent.com/25734461/135989484-c439fc68-5479-4e55-8ce2-4ff94e398fde.jpg)
+<div align="center"><img src="fresh-brinjal-500x500.jpg" width="1000" height="1000" alt="description-of-image" /></div>
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
