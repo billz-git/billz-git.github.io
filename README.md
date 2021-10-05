@@ -1,6 +1,6 @@
 ## billz is making a website 🌈⚡😛
 
-<div align="center"><img src="fresh-brinjal-500x500.jpg" width="1000" height="1000" alt="description-of-image" /></div>
+<div align="center"><img src="fresh-brinjal-500x500.jpg" width="500" height="500" alt="description-of-image" /></div>
 
 
 
